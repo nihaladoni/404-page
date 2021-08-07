@@ -27,25 +27,18 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
 <!-- OVERVIEW -->
 
 ## Overview
 
 ![screenshot](./screen.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ## Responsive 404-Error page
+
+[See Live](https://github.com/nihaladoni/404-page)
 
 ### Built With
 
@@ -62,6 +55,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@nihaladoni](https://github.com/nihaladoni)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
