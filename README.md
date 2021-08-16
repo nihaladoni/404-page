@@ -38,7 +38,7 @@
 
 ## Responsive 404-Error page
 
-[See Live](https://github.com/nihaladoni/404-page)
+[See Live](https://nihaladoni.github.io/404-page/)
 
 ### Built With
 
